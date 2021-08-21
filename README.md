@@ -26,7 +26,7 @@ Apart from coding, I also maintain a blog - you can find my articles on ![Medium
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?e&logo=r&logoColor=white)
-![Bash](https://bashlogo.com/img/symbol/svg/full_colored_light.svg?&logoWidth=50 )
+![Bash]( <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg"> )
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
@@ -48,7 +48,7 @@ Apart from coding, I also maintain a blog - you can find my articles on ![Medium
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)
-![GIT](https://open.vscode.dev/badges/open-in-vscode.svg)
+![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### GIS
 ![QGIS](https://img.shields.io/badge/Made%20with-Jupyter-orange?&logo=Jupyter)
