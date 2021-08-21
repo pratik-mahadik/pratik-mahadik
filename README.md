@@ -18,22 +18,45 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I love to play Chess
 
 ## &#x270d; Blogs
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://pratik-mahadik5.medium.com/).
+Apart from coding, I also maintain a blog - you can find my articles on ![Medium] 9https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [Medium](https://pratik-mahadik5.medium.com/). 
 
 ## 🔧 Technologies & Tools
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Technologies
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+### Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+
+### Frameworks
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&logo=Bootstrap)
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Oracle](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure&logoColor=F90)
+
+### Software & Tools
+![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Tools
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Servers
+![Geoserver]()
+![MapServer]()
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
