@@ -64,8 +64,8 @@ Apart from coding, I also maintain a blog - you can find my articles on ![Medium
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 
 ### Servers
-![Geoserver](https://lh3.googleusercontent.com/proxy/imRo8XJkadyvxclOPEf4UR66ECjCfa14iWG0xIsTEeUBqvEFm1BfCcz3mzI2xqmRS1W0WA6oQIwiaO0EFM0MovERt7DAJTHumam0E_owkLfyq2NZTJXlGvx5HdGCfv8GlJMmO84Arw)
-![MapServer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MapServer_logo.svg/1200px-MapServer_logo.svg)
+![Geoserver](https://img.shields.io/badge/Geoserver-1f425f.svg?)
+![MapServer](https://img.shields.io/badge/Geoserver-1f425f.svg?)
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
