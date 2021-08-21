@@ -18,14 +18,15 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I love to play Chess
 
 ## &#x270d; Blogs
-Apart from coding, I also maintain a blog - you can find my articles on ![Medium] 9https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [Medium](https://pratik-mahadik5.medium.com/). 
+Apart from coding, I also maintain a blog - you can find my articles on ![Medium] (https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white) [Medium](https://pratik-mahadik5.medium.com/). 
 
 ## 🔧 Technologies & Tools
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?e&logo=r&logoColor=white)
+![Bash](https://bashlogo.com/img/symbol/svg/full_colored_light.svg)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
@@ -33,29 +34,37 @@ Apart from coding, I also maintain a blog - you can find my articles on ![Medium
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&logo=Bootstrap)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Oracle](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure&logoColor=F90)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?&logo=microsoft-azure&logoColor=white)
 
 ### Software & Tools
-![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?&logo=Jupyter)
 ![Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)
+![GIT](https://open.vscode.dev/badges/open-in-vscode.svg)
+
+### GIS
+![QGIS](https://img.shields.io/badge/Made%20with-Jupyter-orange?&logo=Jupyter)
+![ARCGIS](https://colab.research.google.com/assets/colab-badge.svg)
+![ERDAS Imagine](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![SNAP](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Google Earth Engine](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 
 ### Servers
-![Geoserver]()
-![MapServer]()
+![Geoserver](https://lh3.googleusercontent.com/proxy/imRo8XJkadyvxclOPEf4UR66ECjCfa14iWG0xIsTEeUBqvEFm1BfCcz3mzI2xqmRS1W0WA6oQIwiaO0EFM0MovERt7DAJTHumam0E_owkLfyq2NZTJXlGvx5HdGCfv8GlJMmO84Arw)
+![MapServer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MapServer_logo.svg/1200px-MapServer_logo.svg.png)
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
