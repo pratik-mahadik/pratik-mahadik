@@ -26,8 +26,7 @@ Apart from coding, I also maintain a blog - you can find my articles on ![Medium
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?e&logo=r&logoColor=white)
-![Bash](https://bashlogo.com/img/symbol/svg/full_colored_light.svg)
-img[alt=Bash] { width: 100px;height:20px; }
+![Bash](https://bashlogo.com/img/symbol/svg/full_colored_light.svg?&logoWidth=50 )
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
