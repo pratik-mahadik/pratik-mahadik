@@ -44,7 +44,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)
-![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GIT](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)
 
 ### GIS
 ![QGIS](https://img.shields.io/badge/Made%20with-Jupyter-orange?&logo=Jupyter)
