@@ -9,8 +9,8 @@ pratik-mahadik/pratik-mahadik is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I’m Pratik Mahadik ![image](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I’m a GIS Enthiusiast and a self proclaimed DEBUG GURU for spatial codes! 👀 Yes I know how to talk to machines!
+### Hi there, I’m Pratik Mahadik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> I’m a GIS Enthiusiast and a self proclaimed DEBUG GURU for spatial codes! 👀 Yes I know how to talk to machines!
 - 🔭 I’m currently working as a Geospatial Software Developer in Bengaluru, India
 - 🌱 I’m currently working on Deep learning for crop classification
 - 💞️ I’m looking to collaborate with others
@@ -21,19 +21,19 @@ You can click the Preview link to take a look at your changes.
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://pratik-mahadik5.medium.com/).
 
 ## 🔧 Technologies & Tools
-# Languages
+### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-# Technologies
+### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Docker)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-# Tools
+### Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
