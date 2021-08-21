@@ -26,7 +26,7 @@ Apart from coding, I also maintain a blog - you can find my articles on ![Medium
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?e&logo=r&logoColor=white)
-![Bash](https://bashlogo.com/img/symbol/svg/full_colored_light.svg)
+![Bash](https://bashlogo.com/img/symbol/svg/full_colored_light.svg =100x20)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
@@ -64,7 +64,7 @@ Apart from coding, I also maintain a blog - you can find my articles on ![Medium
 
 ### Servers
 ![Geoserver](https://lh3.googleusercontent.com/proxy/imRo8XJkadyvxclOPEf4UR66ECjCfa14iWG0xIsTEeUBqvEFm1BfCcz3mzI2xqmRS1W0WA6oQIwiaO0EFM0MovERt7DAJTHumam0E_owkLfyq2NZTJXlGvx5HdGCfv8GlJMmO84Arw)
-![MapServer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MapServer_logo.svg/1200px-MapServer_logo.svg.png)
+![MapServer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MapServer_logo.svg/1200px-MapServer_logo.svg)
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
