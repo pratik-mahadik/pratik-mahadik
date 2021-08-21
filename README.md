@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I love to play Chess
 
 ## &#x270d; Blogs
-Apart from coding, I also maintain a blog - you can find my articles on ![Medium] (https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white) [Medium](https://pratik-mahadik5.medium.com/). 
+Apart from coding, I also maintain a blog - you can find my articles on 
+![Medium] (https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white) [Medium](https://pratik-mahadik5.medium.com/). 
 
 ## 🔧 Technologies & Tools
 ### Languages
