@@ -51,11 +51,11 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![Dask](https://img.shields.io/badge/Dask-1f425f.svg?)
 
 ### GIS
-![QGIS](https://img.shields.io/badge/Made%20with-Jupyter-orange?&logo=Jupyter)
-![ARCGIS](https://colab.research.google.com/assets/colab-badge.svg)
-![ERDAS Imagine](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![SNAP](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Google Earth Engine](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![QGIS](https://img.shields.io/badge/QGIS-1f425f.svg?)
+![ARCGIS](https://img.shields.io/badge/ARCGIS-1f425f.svg?)
+![ERDAS Imagine](https://img.shields.io/badge/ERDAS%20Imagine-1f425f.svg?)
+![SNAP](https://img.shields.io/badge/SNAP-1f425f.svg?)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-1f425f.svg?)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white)
