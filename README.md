@@ -62,14 +62,6 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ### Servers
 ![Geoserver](https://img.shields.io/badge/Geoserver-1f425f.svg?)
 ![MapServer](https://img.shields.io/badge/MapServer-1f425f.svg?)
-
-## Connect with me:
-[<img align=”left” alt=”devopsbyte.com” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[website]: https://devopsbyte.com
-[instagram]: https://instagram.com/jobin_james_ride
-[linkedin]: https://linkedin.com/in/jjames-
   
 ## 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pratik-mahadik/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/pratik.mahadik3/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pratik.m5/)  &nbsp; <a href="mailto:pratik.mahadik5@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
