@@ -46,6 +46,9 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)
 ![GIT](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-1f425f.svg?)
+![Orfeo Toolbox](https://img.shields.io/badge/Orfeo%20Toolbox-1f425f.svg?)
+![Dask](https://img.shields.io/badge/Dask-1f425f.svg?)
 
 ### GIS
 ![QGIS](https://img.shields.io/badge/Made%20with-Jupyter-orange?&logo=Jupyter)
