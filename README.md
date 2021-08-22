@@ -50,17 +50,17 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![Orfeo Toolbox](https://img.shields.io/badge/Orfeo%20Toolbox-1f425f.svg?)
 ![Dask](https://img.shields.io/badge/Dask-1f425f.svg?)
 
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
+
 ### GIS
 ![QGIS](https://img.shields.io/badge/QGIS-1f425f.svg?)
 ![ARCGIS](https://img.shields.io/badge/ARCGIS-1f425f.svg?)
 ![ERDAS Imagine](https://img.shields.io/badge/ERDAS%20Imagine-1f425f.svg?)
 ![SNAP](https://img.shields.io/badge/SNAP-1f425f.svg?)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-1f425f.svg?)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 
 ### Servers
 ![Geoserver](https://img.shields.io/badge/Geoserver-1f425f.svg?)
