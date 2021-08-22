@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there, I’m Pratik Mahadik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> I’m a GIS Enthiusiast and a self proclaimed DEBUG GURU for spatial codes! 👀 Yes I know how to talk to machines!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> I’m a GIS enthusiast and a self proclaimed DEBUG GURU for spatial codes! 
+- 👀 Yes I know how to talk to machines!
 - 🔭 I’m currently working as a Geospatial Software Developer in Bengaluru, India
 - 🌱 I’m currently working on Deep learning for crop classification
 - 💞️ I’m looking to collaborate with others
@@ -15,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 Apart from coding, I also maintain a blog - you can find my articles on 
 [![Medium](https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white)](https://pratik-mahadik5.medium.com/)
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools which I worked on
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -62,10 +63,17 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![Geoserver](https://img.shields.io/badge/Geoserver-1f425f.svg?)
 ![MapServer](https://img.shields.io/badge/MapServer-1f425f.svg?)
 
-### Connect with me:
+## Connect with me:
 [<img align=”left” alt=”devopsbyte.com” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [website]: https://devopsbyte.com
 [instagram]: https://instagram.com/jobin_james_ride
 [linkedin]: https://linkedin.com/in/jjames-
+  
+## 📫 How to reach me:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+  
+## Metrics
+Sorry, you wont get any. I don't frequently use github. It is just cupbopard for my codes 😛
