@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working as a Geospatial Software Developer in Bengaluru, India
 - 🌱 I’m currently working on Deep learning for crop classification
 - 💞️ I’m looking to collaborate with others
-- 🥅 2021 Goals: Study and contribute to Opensource projects
+- 🥅 2023 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to play Chess
 
 ## &#x270d; Blogs
