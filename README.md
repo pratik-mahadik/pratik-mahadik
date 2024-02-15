@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there, I’m Pratik Mahadik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> I’m a GIS enthusiast and a self proclaimed DEBUG GURU for spatial codes! 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> Hey, GIS geek and spatial code-savvy debugger here! 
 - 👀 Yes I know how to talk to machines!
 - 🔭 I’m currently working as a Geospatial Software Developer in Bengaluru, India
 - 🌱 I’m currently working on Deep learning for crop classification
