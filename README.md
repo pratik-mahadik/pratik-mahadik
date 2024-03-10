@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I’m Pratik Mahadik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> Hey, GIS geek and spatial code-savvy debugger here! 
 - 👀 Yes I know how to talk to machines!
-- 🔭 I’m currently working as a Geospatial Software Developer in Bengaluru, India
-- 🌱 I’m currently working on Deep learning for crop classification
+- 🔭 I’m currently working as a Software Development Engineer 3 in Bengaluru, India
+- 🌱 I’m currently working on creating data-intensive applications 
 - 💞️ I’m looking to collaborate with others
-- 🥅 2023 Goals: Study and contribute to Opensource projects
+- 🥅 2024 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to play Chess
 
 ## &#x270d; Blogs
